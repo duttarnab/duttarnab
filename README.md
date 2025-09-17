@@ -2,7 +2,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arnab-dutta-38584a74/)
 [<img src="https://img.shields.io/badge/Medium-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://medium.com/@arnab.bdutta)
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=600&height=100&lines=IAM+Specialist;oAuth+2.0;OpenID+Connect;Full+Stack+Developer;Java;Javascript;Passionate+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=600&height=100&lines=IAM+Specialist;oAuth+2.0;OpenID+Connect;Full+Stack+Developer;Java;Javascript;Microservices;UX/UI Design;Passionate+Learner;Serverless Architecture;Infrastructure as a Service;Object-Oriented Programming" alt="Typing SVG" />
 </div>
 
 ## My skills 📜
