@@ -36,6 +36,9 @@
 
 - Java
 - Android
+- Spring
+- Weld
+- Dropwizard
 
 ### Languages 🌐
 
